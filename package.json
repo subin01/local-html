@@ -1,0 +1,14 @@
+{
+  "name": "local-html",
+  "version": "0.0.0",
+  "description": "Simple Local HTML server for AEM Projects. uses express-ssi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Subin Paul",
+  "dependencies": {
+    "ssi": "^0.1.3",
+    "express": "^3.4.8"
+  }
+}
