@@ -1,0 +1,14 @@
+/* line 1, pages/styles/global.scss */
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  background: #ccc;
+}
+
+/* line 5, pages/styles/global.scss */
+html h1 {
+  color: red;
+  font-size: 35px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJImZpbGUiOiAicGFnZXMvY3NzL2dsb2JhbC5jc3MiLAoJInNvdXJjZXMiOiBbCgkJInBhZ2VzL3N0eWxlcy9nbG9iYWwuc2NzcyIKCV0sCgkibmFtZXMiOiBbXSwKCSJtYXBwaW5ncyI6ICI7QUFBQSxBQUFBLElBQUksQ0FBQztFQUNILFdBQVcsRUFBRSw0QkFBNEI7RUFDekMsU0FBUyxFQUFFLElBQUk7RUFDZixVQUFVLEVBQUUsSUFBSTtDQUtqQjs7O0FBUkQsQUFJRSxJQUpFLENBSUYsRUFBRSxDQUFDO0VBQ0QsS0FBSyxFQUFFLEdBQUc7RUFDVixTQUFTLEVBQUUsSUFBSTtDQUNoQiIKfQ== */

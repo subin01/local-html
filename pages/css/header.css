@@ -1,0 +1,11 @@
+/* line 1, pages/styles/header.scss */
+header {
+  color: green;
+}
+
+/* line 3, pages/styles/header.scss */
+header a {
+  color: blue;
+}
+
+/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJImZpbGUiOiAicGFnZXMvY3NzL2hlYWRlci5jc3MiLAoJInNvdXJjZXMiOiBbCgkJInBhZ2VzL3N0eWxlcy9oZWFkZXIuc2NzcyIKCV0sCgkibmFtZXMiOiBbXSwKCSJtYXBwaW5ncyI6ICI7QUFBQSxBQUFBLE1BQU0sQ0FBQztFQUNMLEtBQUssRUFBRSxLQUFLO0NBSWI7OztBQUxELEFBRUUsTUFGSSxDQUVKLENBQUMsQ0FBQztFQUNBLEtBQUssRUFBRSxJQUFJO0NBQ1oiCn0= */
