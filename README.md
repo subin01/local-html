@@ -2,12 +2,6 @@
 
 `npm i`
 
-`npm serve`
+`npm run dev`
 
 then open http://localhost:3001
-
----
-
-# SASS Compile & Watch
-
-`npm run watch-css`

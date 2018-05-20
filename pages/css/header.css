@@ -1,11 +1,12 @@
-/* line 1, pages/styles/header.scss */
-header {
-  color: green;
-}
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  background: #ccc; }
 
-/* line 3, pages/styles/header.scss */
-header a {
-  color: blue;
-}
+html h1 {
+  color: red;
+  font-size: 35px; }
 
-/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJImZpbGUiOiAicGFnZXMvY3NzL2hlYWRlci5jc3MiLAoJInNvdXJjZXMiOiBbCgkJInBhZ2VzL3N0eWxlcy9oZWFkZXIuc2NzcyIKCV0sCgkibmFtZXMiOiBbXSwKCSJtYXBwaW5ncyI6ICI7QUFBQSxBQUFBLE1BQU0sQ0FBQztFQUNMLEtBQUssRUFBRSxLQUFLO0NBSWI7OztBQUxELEFBRUUsTUFGSSxDQUVKLENBQUMsQ0FBQztFQUNBLEtBQUssRUFBRSxJQUFJO0NBQ1oiCn0= */
+/*# sourceMappingURL=header.scss.map */
+
+/*# sourceMappingURL=header.css.map */
