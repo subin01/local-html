@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build-task:scss-compile":
-      "node-sass-chokidar --source-map true pages/styles/ -o pages/css",
+      "node-sass-chokidar --source-map true src/sass/ -o src/css",
     "sass:build": "npm-run-all -p build-task:*",
-    "sass:watch": "chokidar 'pages/styles/*.scss' -c 'npm run sass:build'",
+    "sass:watch": "chokidar 'src/sass/' -c 'npm run sass:build'",
     "sass:server": "node server",
     "dev": "npm-run-all -p sass:*"
   },
