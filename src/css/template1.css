@@ -1,0 +1,24 @@
+.template-home {
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: hidden; }
+  .template-home .main {
+    min-height: 600px; }
+
+.hero {
+  background: #555;
+  color: #eee;
+  height: 300px;
+  padding-top: 100px;
+  text-align: center; }
+
+.cta {
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: #eee;
+  border: 2px solid orange; }
+  .cta:hover {
+    background: orange; }
+
+/*# sourceMappingURL=template1.css.map */

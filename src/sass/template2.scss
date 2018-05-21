@@ -1,0 +1,13 @@
+@import 'sass-common.scss';
+
+// template specific styles
+.template-faq {
+  @include grid;
+
+  .main {
+    min-height: 700px;
+  }
+}
+
+// template specific components
+@import 'faq/index.scss';

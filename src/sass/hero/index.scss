@@ -1,0 +1,13 @@
+@import '../sass-common.scss';
+
+.hero {
+  background: $color-secondary3;
+  color: $color-secondary1;
+  height: 300px;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.cta {
+  @include primary-button;
+}

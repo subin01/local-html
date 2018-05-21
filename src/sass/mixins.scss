@@ -1,0 +1,17 @@
+@mixin primary-button {
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: $color-secondary1;
+  border: 2px solid $color-secondary2;
+
+  &:hover {
+    background: $color-secondary2;
+  }
+}
+
+@mixin grid {
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: hidden;
+}

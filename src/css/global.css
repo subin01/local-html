@@ -1,10 +1,38 @@
+* {
+  box-sizing: border-box; }
+
 html {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 18px;
-  background: #ccc; }
-  html h1 {
-    color: red;
-    font-size: 44px;
-    font-style: italic; }
+  font-size: 18px; }
+
+body {
+  margin: 0; }
+
+/* Common Component styles */
+header {
+  background: #333;
+  height: 100px;
+  padding: 20px; }
+  header .logo {
+    color: yellow;
+    width: 80px;
+    float: left; }
+  header ul {
+    float: right; }
+  header li {
+    float: left;
+    padding-left: 30px;
+    list-style: none; }
+    header li a {
+      color: #fff;
+      text-decoration: none; }
+
+footer {
+  color: #999;
+  background: #333;
+  text-align: center;
+  padding: 10px;
+  height: 50px;
+  width: 100%; }
 
 /*# sourceMappingURL=global.css.map */

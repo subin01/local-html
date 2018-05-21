@@ -1,0 +1,13 @@
+@import 'sass-common.scss';
+
+// template specific styles
+.template-home {
+  @include grid;
+
+  .main {
+    min-height: 600px;
+  }
+}
+
+// template specific components
+@import 'hero/index.scss';

@@ -1,0 +1,17 @@
+.hero {
+  background: #555;
+  color: #eee;
+  height: 300px;
+  padding-top: 100px;
+  text-align: center; }
+
+.cta {
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: #eee;
+  border: 2px solid orange; }
+  .cta:hover {
+    background: orange; }
+
+/*# sourceMappingURL=index.css.map */
