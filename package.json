@@ -10,7 +10,7 @@
     "sass:watch": "chokidar 'src/sass/' -c 'npm run sass:build'",
     "sass:server": "node server",
     "sass:reload": "livereload",
-    "dev": "NODE_ENV=development npm-run-all -p sass:*"
+    "dev": "npm-run-all -p sass:*"
   },
   "author": "Subin Paul",
   "dependencies": {
